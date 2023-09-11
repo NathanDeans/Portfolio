@@ -1,0 +1,27 @@
+.app {
+  text-align: center;
+  background-color: darkolivegreen;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.homeBtn {
+  font-size: large;
+  color: beige;
+  background-color: black;
+  border-radius: 0.5rem;
+  border: 0.2rem solid white;
+  padding: 0.2rem;
+}
+
+.content {
+  top: 50%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}

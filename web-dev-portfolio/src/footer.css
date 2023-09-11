@@ -1,0 +1,12 @@
+.footerIcons {
+  display: flex;
+  gap: 10vw;
+  padding: 6rem;
+  justify-content: center;
+  background-color: darkolivegreen;
+  border-top: solid white 1rem;
+}
+
+.footerLogo {
+  width: 10vw;
+}
